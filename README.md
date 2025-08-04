@@ -1,7 +1,7 @@
-🕒 Watch Outlet - E-Commerce Website
+## 🕒 Watch Outlet - E-Commerce Website
 A fully functional Watch Outlet website built using HTML, CSS, JavaScript, Node.js, and MySQL. It allows users to browse watches, add to cart, and make purchases. Admins can manage inventory and user data.
 
-📌 Features
+## 📌 Features
 ✅ Responsive front-end using HTML5, CSS3, and Bootstrap
 ✅ Dynamic functionality using JavaScript & Node.js
 ✅ MySQL database integration for storing user, product, and order data
